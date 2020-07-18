@@ -54,3 +54,11 @@ The conversion:
 - Converted HTML into Jade / Pug templates using http://html2jade.org/
 
 The front end should be mostly unchanged from the original.
+
+## Course
+
+- ECMAScript 6 (ES6)
+  Switching to ES6 in Node.js with Ryan Lewis
+
+- Express.js Framework
+  Building a Website with Node.js and Express.js with Ray Villalobos
